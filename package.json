@@ -1,0 +1,26 @@
+{
+  "name": "gaussian-noise",
+  "version": "1.0.0",
+  "description": "generate gaussian noise ",
+  "main": "gaussianNoise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stuzeakd/gaussian-noise-js"
+  },
+  "keywords": [
+    "gaussian",
+    "noise",
+    "normal",
+    "distribution",
+    "natural"
+  ],
+  "author": "appley",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/stuzeakd/gaussian-noise-js/issues"
+  },
+  "homepage": "https://github.com/stuzeakd/gaussian-noise-js"
+}
